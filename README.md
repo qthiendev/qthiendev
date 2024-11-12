@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @qthiendev
-- Ubuntu kinda fun!
-<!---
-qthiendev/qthiendev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+def routine(t): :CatDance: 
+    print(['EAT', 'SH*T', 'SLEEP'][t])
+    if (Im_gone): return to_dust
+    return routine(t + 1 if t < 2 else 0)
+routine(int())
+```
