@@ -2,7 +2,7 @@ Welcome to my personal GitHub Page! This is where I showcase my professional jou
 
 ---
 
-### 🌐 Víit my resume site for more infomation!
+### 🌐 Visit my resume site for more infomation!
 🔗 [View My Live Resume](https://qthiendev.github.io/Resume/)
 
 ---
